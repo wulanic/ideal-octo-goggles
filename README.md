@@ -25,7 +25,3 @@ This repository contains the project files for the Big Data Analytics Internship
 ## Looker Studio Dashboard
 You can view the interactive sales dashboard [here](https://lookerstudio.google.com/s/k-rK8JicGZo).
 
-## How to Use
-- Clone the repository:
-  ```bash
-  git clone https://github.com/wulanic/kimia-farma-analytics
