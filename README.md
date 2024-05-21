@@ -1,4 +1,3 @@
-Sales Dashboard and Data Analysis for Kimia Farma (2020-2023)
 # Kimia Farma Analytics
 
 This repository contains the project files for the Big Data Analytics Internship at Kimia Farma. The project involved developing a sales dashboard and performing data analysis on business performance from 2020 to 2023.
